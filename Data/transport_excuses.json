@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "RER C",
+        "disruption": true,
+        "excuse": "un malaise voyageur",
+        "time": "10:00"
+    },
+    {
+        "id": 2,
+        "name": "RER A",
+        "disruption": true,
+        "excuse": "un accident",
+        "time": "11:00"
+    },
+    {
+        "id": 3,
+        "name": "LIGNE H",
+        "disruption": true,
+        "excuse": "une panne électrique",
+        "time": "12:00"
+    },
+    {
+        "id": 4,
+        "name": "LIGNE 12",
+        "disruption": true,
+        "excuse": "une grève",
+        "time": "13:00"
+    },
+    {
+        "id": 5,
+        "name": "LIGNE 14",
+        "disruption": false,
+        "excuse": "rien à signaler",
+        "time": "14:00"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "serious": [
+            {
+                "id": 1,
+                "excuse": "enfant malade"
+            },
+            {
+                "id": 2,
+                "excuse": "serrure"
+            },
+            {
+                "id": 3,
+                "excuse": "clef"
+            },
+            {
+                "id": 4,
+                "excuse": "vol"
+            },
+            {
+                "id": 5,
+                "excuse": "aggression"
+            }
+        ]
+    },
+    {
+        "funny": [
+            {
+                "id": 1,
+                "excuse": "netflix"
+            },
+            {
+                "id": 2,
+                "excuse": "trump"
+            },
+            {
+                "id": 3,
+                "excuse": "piscine"
+            },
+            {
+                "id": 4,
+                "excuse": "licorne"
+            },
+            {
+                "id": 5,
+                "excuse": "j'sais pas"
+            }
+        ]
+    }
+]
